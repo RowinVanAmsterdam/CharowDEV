@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/RowinVA/RowinVA/main/readme_header.png "Header")](https://www.rva-services.nl/)
 
-# Hey Fam! <img src="https://raw.githubusercontent.com/RowinVA/RowinVA/main/emoji--waving.gif" width="30px">
+# Hey Fam! <img src="https://raw.githubusercontent.com/RowinVA/RowinVA/main/emoji--waving.gif" width="16px">
 My name is Rowin van Amsterdam. I'm a front-end developer from the Netherlands and working at Macaw and as an entrepreneur at RVA Services. 
 
 <!--
