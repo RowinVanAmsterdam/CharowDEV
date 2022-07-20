@@ -20,7 +20,7 @@ Nice to have you here! My name is Rowin van Amsterdam, but often people call me 
 *   ✉️  You can contact me at [rowinvanamsterdam@rva-services.nl](mailto:rowinvanamsterdam@rva-services.nl)
 *   🚀  I'm currently working on building and emerging **Web3.0**
 *   🤝  I'm open to collaborating on interesting projects as a developer
-*   🎋  You can find me in the garden, grounding and touching grass
+*   🌱  You can find me in the garden, grounding and touching grass
 
 
 ### Web2 skills
