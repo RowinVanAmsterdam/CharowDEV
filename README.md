@@ -5,7 +5,7 @@
 [![Header](https://raw.githubusercontent.com/RowinVA/RowinVA/main/readme_header.png "Header")](https://www.rva-services.nl/)
 
 <a href="https://twitter.com/Charow0206" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/twitter/follow/R_vanAmsterdam?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+  <img src="https://img.shields.io/twitter/follow/Charow0206?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
 
 <a href="https://www.github.com/Charow0206" target="_blank" rel="noreferrer">
