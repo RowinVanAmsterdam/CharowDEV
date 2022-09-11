@@ -12,10 +12,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/Charow0206" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/github/followers/RvanAmsterdam?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-</a>
-
  <a href="mailto:rowinvanamsterdam@rva-services.nl">
   <img src="https://img.shields.io/badge/email-%23C14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />
  </a>
