@@ -8,7 +8,11 @@
   <img src="https://img.shields.io/twitter/follow/Charow0206?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
 
-<a href="https://www.github.com/Charow0206" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/charow0206/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/Charow0206" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/RvanAmsterdam?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
 
