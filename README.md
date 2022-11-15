@@ -4,11 +4,11 @@
 
 [![Header](https://raw.githubusercontent.com/RowinVA/RowinVA/main/readme_header.png "Header")](https://www.rva-services.nl/)
 
-<a href="https://twitter.com/Charow0206" target="_blank" rel="noreferrer">
+<a href="https://twitter.com/CharowDEV" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/twitter/follow/Charow0206?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
 
-<a href="https://www.linkedin.com/in/charow0206/" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/CharowDEV" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -24,8 +24,6 @@ Nice to have you here! I'm Charow, a Software Engineer with a background in UX-D
 *   🖥️  See my portfolio at [charow.dev](https://charow.dev/)
 *   ✉️  You can contact me at [rowinvanamsterdam@rva-services.nl](mailto:rowinvanamsterdam@rva-services.nl)
 *   🚀  I'm currently working on building and emerging **Web3.0**
-*   🤝  I'm open to collaborating on interesting projects as a developer
-*   🌱  You can find me in the garden, grounding and touching grass
 
 
 ### Web2 skills
