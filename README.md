@@ -19,7 +19,7 @@
  <h1 align="center">Charow</h1>
 <h3 align="center">Web2 & Web3 Development</h3>
 
-Nice to have you here! I'm Charow, a Software Engineer with a background in UX-Design. Working at [Macaw](https://www.macaw.net/eng/?_ga=2.29613558.859560564.1658343913-1860566116.1658343913&_gac=1.158184648.1658343913.Cj0KCQjwz96WBhC8ARIsAATR253zE906enoetoGzRWXqXOCaqDaIvP_qgKzZVqalrDMopZaqmV_fVgAaAoBCEALw_wcB) and also as a [freelancer](https://www.rva-services.nl/). 
+Nice to have you here! I'm Charow, a Software Engineer with a background in UX-Design. Working at [Macaw](https://www.macaw.net/eng/?_ga=2.29613558.859560564.1658343913-1860566116.1658343913&_gac=1.158184648.1658343913.Cj0KCQjwz96WBhC8ARIsAATR253zE906enoetoGzRWXqXOCaqDaIvP_qgKzZVqalrDMopZaqmV_fVgAaAoBCEALw_wcB) and as a [freelancer](https://www.rva-services.nl/). 
 
 *   🖥️  See my portfolio at [charow.dev](https://charow.dev/)
 *   ✉️  You can contact me at [rowinvanamsterdam@rva-services.nl](mailto:rowinvanamsterdam@rva-services.nl)
